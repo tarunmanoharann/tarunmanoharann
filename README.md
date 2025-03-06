@@ -95,14 +95,6 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 
-<h2 align="center">🎵 Coding to the Beat 🎵</h2>
-<br>
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem&bar_color=774EE0&bar_color_cover=false" alt="Spotify Now Playing" width="400"/>
-</div>
-
-<br/>
-<hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
