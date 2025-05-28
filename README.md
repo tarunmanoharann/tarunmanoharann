@@ -25,11 +25,11 @@ Here are some ideas to get you started:
  
  🚀 Currently crafting **a mobile masterpiece (my dream project)**
  
- 🧠 Expanding my tech horizons with **Docker, Supabase, AWS**
+ 🧠 Expanding my tech horizons with **Docker, Jenkins, AWS**
 
  💬 Let's discuss **Node.js, React, Firebase... or anything [here](https://github.com/tarunmanoharan/tarunmanoharan/issues)**
 
- ⚡ Motto: **Constant improvement through consistent practice**
+
  
 </div>
  
