@@ -90,15 +90,7 @@ const tarun = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=tarunmanoharann&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
 
 ## 🐍 Contribution Graph
 
@@ -110,16 +102,6 @@ const tarun = {
 
 ---
 
-## 💡 Recent Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tarunmanoharann&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/tarunmanoharann/your-repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tarunmanoharann&repo=another-repo&theme=tokyonight&hide_border=true)](https://github.com/tarunmanoharann/another-repo)
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
