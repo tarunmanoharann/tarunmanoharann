@@ -21,7 +21,7 @@ const tarun = {
 };
 ```
 
-- 🔭 **Currently working on:** A revolutionary mobile app (my dream project)
+- 🔭 **Currently working on:** A revolutionary ai-based navigation app (my dream project)
 - 🌱 **Learning:** Advanced DevOps with Docker, Jenkins & AWS
 - 💬 **Ask me about:** Node.js, React, Firebase, or anything tech-related
 - 📫 **Reach me at:** [m.tarun13122004@gmail.com](mailto:m.tarun13122004@gmail.com)
