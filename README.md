@@ -14,14 +14,14 @@
 const tarun = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: "Building innovative mobile applications",
+    currentFocus: "Building innovative ai-based  applications",
     learning: ["Docker", "Jenkins", "AWS", "Kubernetes"],
     interests: ["Open Source", "Mobile Development", "Cloud Computing"],
     motto: "Code with passion, build with purpose"
 };
 ```
 
-- 🔭 **Currently working on:** A revolutionary ai based navigation app (my dream project)
+- 🔭 **Currently working on:** A revolutionary ai-based navigation app (my dream project)
 - 🌱 **Learning:** Advanced DevOps with Docker, Jenkins & AWS
 - 💬 **Ask me about:** Node.js, React, Firebase, or anything tech-related
 - 📫 **Reach me at:** [m.tarun13122004@gmail.com](mailto:m.tarun13122004@gmail.com)
