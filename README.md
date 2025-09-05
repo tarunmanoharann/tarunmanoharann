@@ -16,7 +16,7 @@ const tarun = {
     location: "India 🇮🇳",
     currentFocus: "Building innovative ai-based  applications",
     learning: ["Docker", "Jenkins", "AWS", "Kubernetes"],
-    interests: ["Open Source", "Mobile Development", "Cloud Computing"],
+    interests: ["Open Source", "Data Science", "Cloud Computing"],
     motto: "Code with passion, build with purpose"
 };
 ```
