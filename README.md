@@ -133,16 +133,6 @@ Full-stack inventory manager with real-time stock tracking, order processing & a
 
 ---
 
-### 🎯 Goals for 2026
-
-- [ ] Land a Software Engineer apprenticeship/internship role
-- [ ] Get hands-on with Docker, AWS & Kafka in production-style projects
-- [ ] Contribute to 5+ open source repositories
-- [ ] Cross 300+ LeetCode problems solved
-- [ ] Write 3 technical blog posts on full-stack architecture
-
----
-
 <div align="center">
 
 **Thanks for stopping by — let's build something great! 🚀**
