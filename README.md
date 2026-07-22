@@ -28,7 +28,7 @@ const tarun = {
 };
 ```
 
-- 🔭 Currently building **CineGraph** — a hybrid recommendation engine using TF-IDF + knowledge graphs
+
 - 🌱 Sharpening deployment skills — Docker, AWS, Kafka
 - 💬 Ask me about React, Node.js, Java/Spring Boot, or system design for freshers
 - 📫 Reach me at **m.tarun13122004@gmail.com**
