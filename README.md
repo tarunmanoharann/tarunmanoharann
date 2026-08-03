@@ -19,7 +19,7 @@
 
 ```javascript
 const tarun = {
-    role: "Final-Year CSE Student, 2026",
+    role: "Software Engineer",
     location: "Coimbatore, India 🇮🇳",
     stack: ["React", "Node.js", "Java", "Spring Boot", "Python"],
     currentlyExploring: ["Docker", "AWS", "Kafka"],
