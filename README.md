@@ -20,10 +20,10 @@
 ```javascript
 const tarun = {
     role: "Software Engineer",
-    location: "Coimbatore, India 🇮🇳",
+    location: "Chennai, India 🇮🇳",
     stack: ["React", "Node.js", "Java", "Spring Boot", "Python"],
     currentlyExploring: ["Docker", "AWS", "Kafka"],
-    achievements: "2x Hackathon Winner · 250+ LeetCode Problems",
+    achievements: "2x Hackathon Winner · 100+ LeetCode Problems",
     motto: "Code with passion, build with purpose."
 };
 ```
